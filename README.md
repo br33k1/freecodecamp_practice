@@ -1,2 +1,1 @@
-# freecodecamp_practice
-Practice files
+Practice files I do on my own time.
