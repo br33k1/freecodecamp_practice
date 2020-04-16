@@ -1,0 +1,33 @@
+.red-text {
+    color: red;
+ }
+.blue-text {
+    color: blue;
+ }
+h1 {
+  font-family: Lobster, mono;
+}
+h3 {
+  font-family: mono;
+}
+p {
+  font-size: 20px;
+  font-family: monospace;
+}
+ul {
+  font-size: 18px;
+  font-family: monospace;
+}
+ol {
+  font-size: 18px;
+  font-family: monospace;
+}
+.shrink-image {
+  width: 250px;
+  border-radius: 65%;
+}
+.thick-red-border {
+  border-color: red;
+  border-width: 8px;
+  border-style: solid;
+}
